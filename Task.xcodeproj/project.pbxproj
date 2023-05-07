@@ -7,18 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5700ABCA2A07AA44005AD7D3 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5700ABC92A07AA44005AD7D3 /* Date+Extension.swift */; };
+		5700ABCC2A07AA79005AD7D3 /* KeyboardResponder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5700ABCB2A07AA79005AD7D3 /* KeyboardResponder.swift */; };
+		5700ABCE2A07AAA3005AD7D3 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5700ABCD2A07AAA3005AD7D3 /* Color+Extension.swift */; };
+		5700ABD02A07AB92005AD7D3 /* TemplateTop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5700ABCF2A07AB92005AD7D3 /* TemplateTop.swift */; };
+		5700ABD22A07ABF9005AD7D3 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5700ABD12A07ABF9005AD7D3 /* View+Extension.swift */; };
+		5700ABDE2A07ADDA005AD7D3 /* HelveticaNeue.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABD42A07ADDA005AD7D3 /* HelveticaNeue.ttc */; };
+		5700ABDF2A07ADDA005AD7D3 /* MarkPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABD52A07ADDA005AD7D3 /* MarkPro-Bold.otf */; };
+		5700ABE02A07ADDA005AD7D3 /* Product Sans Bold Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABD62A07ADDA005AD7D3 /* Product Sans Bold Italic.ttf */; };
+		5700ABE12A07ADDA005AD7D3 /* Product Sans Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABD72A07ADDA005AD7D3 /* Product Sans Bold.ttf */; };
+		5700ABE22A07ADDA005AD7D3 /* Product Sans Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABD82A07ADDA005AD7D3 /* Product Sans Regular.ttf */; };
+		5700ABE32A07ADDA005AD7D3 /* MarkPro-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABD92A07ADDA005AD7D3 /* MarkPro-Heavy.otf */; };
+		5700ABE42A07ADDA005AD7D3 /* MarkPro.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABDA2A07ADDA005AD7D3 /* MarkPro.otf */; };
+		5700ABE52A07ADDA005AD7D3 /* MarkPro-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABDB2A07ADDA005AD7D3 /* MarkPro-Medium.otf */; };
+		5700ABE62A07ADDA005AD7D3 /* Product Sans Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABDC2A07ADDA005AD7D3 /* Product Sans Italic.ttf */; };
+		5700ABE72A07ADDA005AD7D3 /* SF-Pro-Text-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5700ABDD2A07ADDA005AD7D3 /* SF-Pro-Text-Semibold.otf */; };
 		57E153C32A079D06007C9FDF /* TaskApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E153C22A079D06007C9FDF /* TaskApp.swift */; };
 		57E153C52A079D06007C9FDF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E153C42A079D06007C9FDF /* ContentView.swift */; };
 		57E153C72A079D07007C9FDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57E153C62A079D07007C9FDF /* Assets.xcassets */; };
 		57E153CA2A079D07007C9FDF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57E153C92A079D07007C9FDF /* Preview Assets.xcassets */; };
+		57E153D42A079E35007C9FDF /* TaskModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E153D32A079E35007C9FDF /* TaskModel.swift */; };
+		57E153D62A079E78007C9FDF /* TaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E153D52A079E78007C9FDF /* TaskViewModel.swift */; };
+		57E153D82A07A036007C9FDF /* TaskListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E153D72A07A036007C9FDF /* TaskListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5700ABC92A07AA44005AD7D3 /* Date+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
+		5700ABCB2A07AA79005AD7D3 /* KeyboardResponder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardResponder.swift; sourceTree = "<group>"; };
+		5700ABCD2A07AAA3005AD7D3 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
+		5700ABCF2A07AB92005AD7D3 /* TemplateTop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateTop.swift; sourceTree = "<group>"; };
+		5700ABD12A07ABF9005AD7D3 /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		5700ABD42A07ADDA005AD7D3 /* HelveticaNeue.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = HelveticaNeue.ttc; sourceTree = "<group>"; };
+		5700ABD52A07ADDA005AD7D3 /* MarkPro-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MarkPro-Bold.otf"; sourceTree = "<group>"; };
+		5700ABD62A07ADDA005AD7D3 /* Product Sans Bold Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Product Sans Bold Italic.ttf"; sourceTree = "<group>"; };
+		5700ABD72A07ADDA005AD7D3 /* Product Sans Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Product Sans Bold.ttf"; sourceTree = "<group>"; };
+		5700ABD82A07ADDA005AD7D3 /* Product Sans Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Product Sans Regular.ttf"; sourceTree = "<group>"; };
+		5700ABD92A07ADDA005AD7D3 /* MarkPro-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MarkPro-Heavy.otf"; sourceTree = "<group>"; };
+		5700ABDA2A07ADDA005AD7D3 /* MarkPro.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MarkPro.otf; sourceTree = "<group>"; };
+		5700ABDB2A07ADDA005AD7D3 /* MarkPro-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MarkPro-Medium.otf"; sourceTree = "<group>"; };
+		5700ABDC2A07ADDA005AD7D3 /* Product Sans Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Product Sans Italic.ttf"; sourceTree = "<group>"; };
+		5700ABDD2A07ADDA005AD7D3 /* SF-Pro-Text-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Text-Semibold.otf"; sourceTree = "<group>"; };
+		5700ABE82A07ADEC005AD7D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		57E153BF2A079D06007C9FDF /* Task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Task.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57E153C22A079D06007C9FDF /* TaskApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskApp.swift; sourceTree = "<group>"; };
 		57E153C42A079D06007C9FDF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		57E153C62A079D07007C9FDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57E153C92A079D07007C9FDF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		57E153D32A079E35007C9FDF /* TaskModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskModel.swift; sourceTree = "<group>"; };
+		57E153D52A079E78007C9FDF /* TaskViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewModel.swift; sourceTree = "<group>"; };
+		57E153D72A07A036007C9FDF /* TaskListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +69,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5700ABC82A07AA2B005AD7D3 /* Extentions */ = {
+			isa = PBXGroup;
+			children = (
+				5700ABC92A07AA44005AD7D3 /* Date+Extension.swift */,
+				5700ABCB2A07AA79005AD7D3 /* KeyboardResponder.swift */,
+				5700ABCD2A07AAA3005AD7D3 /* Color+Extension.swift */,
+				5700ABD12A07ABF9005AD7D3 /* View+Extension.swift */,
+			);
+			path = Extentions;
+			sourceTree = "<group>";
+		};
+		5700ABD32A07ADDA005AD7D3 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				5700ABD42A07ADDA005AD7D3 /* HelveticaNeue.ttc */,
+				5700ABD52A07ADDA005AD7D3 /* MarkPro-Bold.otf */,
+				5700ABD62A07ADDA005AD7D3 /* Product Sans Bold Italic.ttf */,
+				5700ABD72A07ADDA005AD7D3 /* Product Sans Bold.ttf */,
+				5700ABD82A07ADDA005AD7D3 /* Product Sans Regular.ttf */,
+				5700ABD92A07ADDA005AD7D3 /* MarkPro-Heavy.otf */,
+				5700ABDA2A07ADDA005AD7D3 /* MarkPro.otf */,
+				5700ABDB2A07ADDA005AD7D3 /* MarkPro-Medium.otf */,
+				5700ABDC2A07ADDA005AD7D3 /* Product Sans Italic.ttf */,
+				5700ABDD2A07ADDA005AD7D3 /* SF-Pro-Text-Semibold.otf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
 		57E153B62A079D06007C9FDF = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +116,17 @@
 		57E153C12A079D06007C9FDF /* Task */ = {
 			isa = PBXGroup;
 			children = (
+				5700ABE82A07ADEC005AD7D3 /* Info.plist */,
+				5700ABD32A07ADDA005AD7D3 /* Font */,
+				5700ABC82A07AA2B005AD7D3 /* Extentions */,
+				57E153D22A079D27007C9FDF /* ViewModel */,
+				57E153D12A079D21007C9FDF /* View */,
+				57E153D02A079D17007C9FDF /* Model */,
 				57E153C22A079D06007C9FDF /* TaskApp.swift */,
 				57E153C42A079D06007C9FDF /* ContentView.swift */,
 				57E153C62A079D07007C9FDF /* Assets.xcassets */,
 				57E153C82A079D07007C9FDF /* Preview Content */,
+				5700ABCF2A07AB92005AD7D3 /* TemplateTop.swift */,
 			);
 			path = Task;
 			sourceTree = "<group>";
@@ -65,6 +137,30 @@
 				57E153C92A079D07007C9FDF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		57E153D02A079D17007C9FDF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				57E153D32A079E35007C9FDF /* TaskModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		57E153D12A079D21007C9FDF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				57E153D72A07A036007C9FDF /* TaskListView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		57E153D22A079D27007C9FDF /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				57E153D52A079E78007C9FDF /* TaskViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +221,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5700ABE72A07ADDA005AD7D3 /* SF-Pro-Text-Semibold.otf in Resources */,
+				5700ABDE2A07ADDA005AD7D3 /* HelveticaNeue.ttc in Resources */,
+				5700ABE22A07ADDA005AD7D3 /* Product Sans Regular.ttf in Resources */,
+				5700ABDF2A07ADDA005AD7D3 /* MarkPro-Bold.otf in Resources */,
+				5700ABE12A07ADDA005AD7D3 /* Product Sans Bold.ttf in Resources */,
+				5700ABE62A07ADDA005AD7D3 /* Product Sans Italic.ttf in Resources */,
+				5700ABE02A07ADDA005AD7D3 /* Product Sans Bold Italic.ttf in Resources */,
+				5700ABE42A07ADDA005AD7D3 /* MarkPro.otf in Resources */,
 				57E153CA2A079D07007C9FDF /* Preview Assets.xcassets in Resources */,
+				5700ABE32A07ADDA005AD7D3 /* MarkPro-Heavy.otf in Resources */,
 				57E153C72A079D07007C9FDF /* Assets.xcassets in Resources */,
+				5700ABE52A07ADDA005AD7D3 /* MarkPro-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +243,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57E153D42A079E35007C9FDF /* TaskModel.swift in Sources */,
+				57E153D62A079E78007C9FDF /* TaskViewModel.swift in Sources */,
+				5700ABD22A07ABF9005AD7D3 /* View+Extension.swift in Sources */,
+				5700ABCC2A07AA79005AD7D3 /* KeyboardResponder.swift in Sources */,
 				57E153C52A079D06007C9FDF /* ContentView.swift in Sources */,
+				57E153D82A07A036007C9FDF /* TaskListView.swift in Sources */,
+				5700ABD02A07AB92005AD7D3 /* TemplateTop.swift in Sources */,
+				5700ABCA2A07AA44005AD7D3 /* Date+Extension.swift in Sources */,
 				57E153C32A079D06007C9FDF /* TaskApp.swift in Sources */,
+				5700ABCE2A07AAA3005AD7D3 /* Color+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +384,7 @@
 				DEVELOPMENT_TEAM = 38R8WKKW7Y;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Task/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +414,7 @@
 				DEVELOPMENT_TEAM = 38R8WKKW7Y;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Task/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
